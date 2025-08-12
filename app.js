@@ -36,7 +36,7 @@ const minutes2 = document.getElementById('minutes2')
 const seconds2 = document.getElementById('seconds2')
 
 
-const BruchhausenVilsen = new Date(`June 20 2025 16:00:00`)
+const BruchhausenVilsen = new Date(`June 20 2026 16:00:00`)
 
 function updateCountdown2() {
     const currentTime = new Date();
